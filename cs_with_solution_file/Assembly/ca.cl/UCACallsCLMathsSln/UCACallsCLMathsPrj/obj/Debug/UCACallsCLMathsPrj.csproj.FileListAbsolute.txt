@@ -1,0 +1,9 @@
+C:\Pradeep\Classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\obj\Debug\UCACallsCLMathsPrj.csprojAssemblyReference.cache
+C:\Pradeep\Classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\obj\Debug\UCACallsCLMathsPrj.csproj.CoreCompileInputs.cache
+C:\Pradeep\Classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\bin\Debug\UCACallsCLMathsPrj.exe.config
+C:\Pradeep\Classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\bin\Debug\UCACallsCLMathsPrj.exe
+C:\Pradeep\Classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\bin\Debug\UCACallsCLMathsPrj.pdb
+C:\Pradeep\Classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\bin\Debug\UCLprjMaths.dll
+C:\Pradeep\Classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\obj\Debug\UCACallsCLMathsPrj.csproj.CopyComplete
+C:\Pradeep\Classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\obj\Debug\UCACallsCLMathsPrj.exe
+C:\Pradeep\Classes\.net\cs\ca.cl\UCACallsCLMathsSln\UCACallsCLMathsPrj\obj\Debug\UCACallsCLMathsPrj.pdb

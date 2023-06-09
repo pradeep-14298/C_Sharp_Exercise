@@ -1,0 +1,6 @@
+C:\Pradeep\Classes\.net\cs\cl\UCLSlnMaths\UCLprjMaths\bin\Debug\UCLprjMaths.dll
+C:\Pradeep\Classes\.net\cs\cl\UCLSlnMaths\UCLprjMaths\bin\Debug\UCLprjMaths.pdb
+C:\Pradeep\Classes\.net\cs\cl\UCLSlnMaths\UCLprjMaths\obj\Debug\UCLprjMaths.csprojAssemblyReference.cache
+C:\Pradeep\Classes\.net\cs\cl\UCLSlnMaths\UCLprjMaths\obj\Debug\UCLprjMaths.csproj.CoreCompileInputs.cache
+C:\Pradeep\Classes\.net\cs\cl\UCLSlnMaths\UCLprjMaths\obj\Debug\UCLprjMaths.dll
+C:\Pradeep\Classes\.net\cs\cl\UCLSlnMaths\UCLprjMaths\obj\Debug\UCLprjMaths.pdb
